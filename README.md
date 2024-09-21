@@ -17,7 +17,7 @@
 - Industrial automation solutions
 
 ## 📫 How to reach me:
-- Email: [eya.welati@insat.ucar.tn](mailto:eya.welati@insat.ucar.tn)
+- Email: [eya.weslati@insat.ucar.tn](mailto:eya.weslati@insat.ucar.tn)
 - LinkedIn: [Eya Oueslati](https://www.linkedin.com/in/eya-ouesleti-840597160)
 
 ## 😄 Pronouns: She/Her
