@@ -20,7 +20,7 @@
 - Email: [eya.weslati@insat.ucar.tn](mailto:eya.weslati@insat.ucar.tn)
 - LinkedIn: [Eya Oueslati](https://www.linkedin.com/in/eya-ouesleti-840597160)
 
-## 😄 Pronouns: She/Her
+<!--## 😄 Pronouns: She/Her
 
 ## ⚡ Fun fact:
-I once built a simple AI model that predicts stock prices using historical data, and I'm excited to explore more innovative applications in technology!
+I once built a simple AI model that predicts stock prices using historical data, and I'm excited to explore more innovative applications in technology! --!>
