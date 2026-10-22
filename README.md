@@ -1,6 +1,6 @@
 # Bonjour, moi c'est Eya 👋
 
-**Ingénieure IA générative à Toulouse.** Je construis des assistants IA pour des équipes qui
+**Ingénieure IA et Data à Toulouse.** Je construis des assistants IA pour des équipes qui
 surveillent des satellites, et je passe autant de temps à vérifier qu'ils disent vrai qu'à les
 construire.
 
