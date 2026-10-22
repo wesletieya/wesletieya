@@ -4,7 +4,7 @@
 surveillent des satellites, et je passe autant de temps à vérifier qu'ils disent vrai qu'à les
 construire.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eya%20Weslati-0A66C2?logo=linkedin&logoColor=white)](linkedin.com/in/eya-ouesleti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eya%20Weslati-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eya-ouesleti)
 [![Email](https://img.shields.io/badge/Email-eyaweslatii12%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:eyaweslatii12@gmail.com)
 ![Disponible](https://img.shields.io/badge/Disponible-imm%C3%A9diatement-2EA44F)
 
@@ -102,4 +102,4 @@ Je cherche mon prochain poste d'**ingénieure IA générative / data**, à Toulo
 client. Et si vous voulez simplement échanger sur le RAG, les agents ou l'évaluation des LLM,
 écrivez-moi : c'est mon sujet préféré.
 
-📫 [eyaweslatii12@gmail.com](mailto:eyaweslatii12@gmail.com) · [LinkedIn](linkedin.com/in/eya-ouesleti)
+📫 [eyaweslatii12@gmail.com](mailto:eyaweslatii12@gmail.com) · [LinkedIn](https://www.linkedin.com/in/eya-ouesleti)
